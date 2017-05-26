@@ -1,5 +1,6 @@
 # LiveChatIE
 <i>LiveChatIE</i> (Improved Edition) is the greatly improved, second edition of the original LiveChat chat manager for Khan Academy users. LiveChat is geared towards collaborations and general chatters alike, providing the same reliable service regardless of the user.
+
 It is currently being built (and can be viewed under construction) here:
 
 https://www.khanacademy.org/cs/webpage/6144052898
