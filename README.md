@@ -1,2 +1,2 @@
 # LiveChatIE
-LiveChatIE (Improved Edition): second version of the LiveChat Khan Academy chat manager.
+LiveChatIE (Improved Edition) is the greatly improved, second edition of the original LiveChat chat manager for Khan Academy users.
