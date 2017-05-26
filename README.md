@@ -13,4 +13,4 @@ In addition to this, LiveChat has many extra features such as <b>exact post date
 And with the combined security of the Khan Academy Discussion Guidelines and a strict built-in blacklist, you can chat in peace knowing that you won't see anything jarring or inappropriate. Approved by the Khan Academy Guardians, LiveChat is as harmless as an ordinary comment (but with far better features).
 
 
-<b>LiveChat IE is the better way to chat on Khan Academy.</b> Thanks for taking a look, and hopefully it's as helpful for you as it has been for so many others.
+<b>LiveChat IE is the better way to chat on Khan Academy.</b> Thanks for taking a look, be sure to visit the <a href='https://github.com/KonurPapa/LiveChatIE/wiki'>LiveChat IE Wiki</a> for documentation, update logs and info on how you can get involved.
