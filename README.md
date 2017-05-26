@@ -4,6 +4,7 @@
 https://www.khanacademy.org/cs/webpage/6144052898
 
 
+
 LiveChat was designed to fix issues many people have with the typical posting method on Khan Academy. The comment system Khan Academy uses gives a notification if a new post is received, and the page must be reloaded to view it. In contrast, <i>LiveChatIE</i> gives notifications <b>only</b> to the server owner, and new posts are displayed <b>as they're posted</b> without reloading necessary.
 
 
