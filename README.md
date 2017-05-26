@@ -1,12 +1,9 @@
 # LiveChatIE
 <i>LiveChatIE</i> (Improved Edition) is the greatly improved, second edition of the original LiveChat chat manager for Khan Academy users. LiveChat is geared towards collaborations and general chatters alike, providing the same reliable service regardless of the user.
 
-It is currently being built (and can be viewed under construction) here:
+It is currently being built (and can be viewed under construction) here: https://www.khanacademy.org/cs/webpage/6144052898
 
-https://www.khanacademy.org/cs/webpage/6144052898
-<br>
-<br>
-<br>
+
 LiveChat was designed to fix issues many people have with the typical posting method on Khan Academy. The comment system Khan Academy uses gives a notification if a new post is received, and the page must be reloaded to view it. In contrast, <i>LiveChatIE</i> gives notifications <b>only</b> to the server owner, and new posts are displayed <b>as they're posted</b> without reloading necessary.
 
 
