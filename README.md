@@ -4,7 +4,7 @@
 It is currently under construction, but <i>LiveChat IE</i> version <i>Alpha</i> can be viewed at <a href='https://www.khanacademy.org/cs/webpage/6144052898'><b>this link</b></a>.
 
 
-LiveChat was designed to fix issues many people have with the typical posting method on Khan Academy. The comment system Khan Academy uses gives a notification if a new post is received, and the page must be reloaded to view it. In contrast, <i>LiveChat IE</i> gives notifications <b>only</b> to the server owner, and new posts are displayed <b>as they're posted</b> without reloading necessary.
+LiveChat was designed to fix issues many people have with the typical posting method on Khan Academy. The comment system Khan Academy uses gives a notification if a new post is received, and the page must be reloaded to view it. In contrast, <i>LiveChat IE</i> gives notifications <b>only</b> to the server owner, and new posts are displayed <b>as they are posted</b> without reloading necessary.
 
 
 In addition to this, LiveChat has many extra features such as <b>exact post date</b>, <b>image display</b>, <b>list of users in the chat</b>, and more. A new chat can be set up in minutes, and joining an existing chat just takes moments. It's an intuitive system designed around you, with help provided just in case you get stuck.
