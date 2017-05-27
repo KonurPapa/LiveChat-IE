@@ -1,5 +1,5 @@
 # LiveChat IE
-<i>LiveChat IE</i> <small>(Improved Edition)</small> is the greatly improved, second edition of the original LiveChat chat manager for Khan Academy users. LiveChat is geared towards collaborations and general chatters alike, providing the same reliable service regardless of the user.
+<i>LiveChat IE</i> (Improved Edition) is the greatly improved, second edition of the original LiveChat chat manager for Khan Academy users. LiveChat is geared towards collaborations and general chatters alike, providing the same reliable service regardless of the user.
 
 It is currently under construction, but <i>LiveChat IE</i> version <i>Alpha</i> can be viewed at <a href='https://www.khanacademy.org/cs/webpage/6144052898'>this link</a>.
 
