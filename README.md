@@ -1,7 +1,7 @@
 # LiveChat IE
 <i>LiveChat IE</i> (Improved Edition) is the greatly improved, second edition of the original LiveChat chat manager for Khan Academy users. LiveChat is geared towards collaborations and general chatters alike, providing the same reliable service regardless of the user.
 
-<i>LiveChat IE</i> version <i>Alpha</i> can be viewed at <a href='https://www.khanacademy.org/cs/webpage/6144052898'><b>this link</b></a>.
+<i>LiveChat IE Alpha</i> can be viewed at <a href='https://www.khanacademy.org/cs/webpage/6144052898'><b>this link</b></a>.
 
 
 LiveChat was designed to fix issues many people have with the typical posting method on Khan Academy. The comment system Khan Academy uses gives a notification if a new post is received, and the page must be reloaded to view it. In contrast, <i>LiveChat IE</i> gives notifications <b>only</b> to the server owner, and new posts are displayed <b>as they are posted</b> without reloading necessary.
