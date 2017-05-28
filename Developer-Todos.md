@@ -1,4 +1,3 @@
-/**
  * Blacklist
  * Mentions
  * Status
@@ -9,4 +8,3 @@
  * Chat owner warnings
  * Banning/hiding
  * Move from jQuery to pure JS
-*/
