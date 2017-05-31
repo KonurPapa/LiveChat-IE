@@ -1,7 +1,5 @@
- * Blacklist
  * Mentions
  * Status
- * Noise for incoming posts
  * Full emoji bank
  * Menu/welcome screen
  * Chat owner display
