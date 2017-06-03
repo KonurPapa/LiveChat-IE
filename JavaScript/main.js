@@ -72,7 +72,7 @@ var format = function(msg) {
     if (imageCheck.test(msg)) msg = msg.replace(imageCheck, " <a href=\"//$2.$3$4$5\" target=\"_blank\"><img src=\"//$2.$3$4$5\" style=\"max-width: 400px; max-height: 400px; margin: 0.5%; border: 1px solid #ddd;\"></a>");
     else msg = msg.replace(urlCheck, " <a href=\"//$2.$3$4\" target=\"_blank\">$2.$3$4</a>");
     msg = msg.replace(emojiCheck.smiley, " <div class=\"emoji\">😊</div>").replace(emojiCheck.wink, " <div class=\"emoji\">😉</div>").replace(emojiCheck.tongue, " <div class=\"emoji\">😛</div>").replace(emojiCheck.laugh, " <div class=\"emoji\">😆</div>").replace(emojiCheck.grin, " <div class=\"emoji\">😃</div>");
-    for (var i = blacklist.length - 1; i--;) {
+    for (var i = blacklist.length; i--;) {
         if (blacklist[i].test(msg)) msg = blackString + msg;
         msg = msg.replace(blacklist[i], "<b style='color: red;'>[...]</b>");
     }
