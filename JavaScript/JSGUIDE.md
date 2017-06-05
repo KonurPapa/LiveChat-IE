@@ -1,6 +1,7 @@
 When writing JavaScript for <em>LiveChat IE</em>, please follow these general syntax rules:
-
-1 - <b>Always</b> indent code inside a function/loop.<br>
+<br>
+<br>
+1 - <b>Always</b> indent code inside a function/loop.
 ```javascript
 function dog() {
     console.log("Woof!");
