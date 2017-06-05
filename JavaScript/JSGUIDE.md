@@ -15,7 +15,7 @@ function dog() { console.log("Woof!"); };
 2 - <b>Always</b> end lines with a semicolon. It's a better practice to write a line like <code>var dog = true;</code> than it is to write <code>var dog = true</code>.
 <br>
 <br>
-3 - <b>Always</b> add whitespace before and after a logical operator (`+`, `%`, `=`, etc). `dog = "can" + "ine"` is more readable than `dog="can"+"ine"`.
+3 - <b>Always</b> add whitespace before and after a logical operator (<code>+</code>, <code>%</code>, <code>=</code>, etc). <code>dog = "can" + "ine"</code> is more readable than <code>dog="can"+"ine"</code>.
 <br>
 <br>
 4 - <b>Never</b> release new features without having them thoroughly tested beforehand. New features can potentially break others, and it is often very difficult for a developer to test every minutiae an update may bring.
