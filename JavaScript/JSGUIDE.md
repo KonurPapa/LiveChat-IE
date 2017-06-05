@@ -1,4 +1,4 @@
-When writing JavaScript for <em>LiveChat IE</em>, please follow these general syntax rules:
+<b>When writing JavaScript for <em>LiveChat IE</em>, please follow these general syntax rules.</b>
 <br>
 <br>
 1 - <b>Always</b> indent code inside a function/loop.
