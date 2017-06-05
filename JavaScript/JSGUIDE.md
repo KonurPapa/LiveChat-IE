@@ -12,8 +12,14 @@ is more readable than
 function dog() { console.log("Woof!"); };
 ```
 <br>
-2 - <b>Always</b> end lines with a semicolon. It's a better practice to write a line like <code>var dog = true;</code> than it is to write <code>var dog = true</code>.
-<br>
+2 - <b>Always</b> end lines with a semicolon. It's a better practice to write a line like
+```
+var dog = true;
+```
+than it is to write
+```
+var dog = true
+```
 <br>
 3 - <b>Always</b> add whitespace before and after a logical operator (<code>+</code>, <code>%</code>, <code>=</code>, etc). <code>dog = "can" + "ine"</code> is more readable than <code>dog="can"+"ine"</code>.
 <br>
