@@ -33,4 +33,4 @@ dog="can"+"ine"
 ```
 
 
-4 - <b>Never</b> release new features without having them thoroughly tested beforehand. New features can potentially break others, and it is often very difficult for a developer to test every minutiae an update may bring.
+4 - <b>Never</b> release new features without having them thoroughly tested beforehand. New features can potentially break others, and it is often very difficult for a developer to test every minutiae of an update.
