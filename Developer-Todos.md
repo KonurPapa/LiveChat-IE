@@ -1,16 +1,16 @@
   <b>Developer To-Dos</b>
   <br>
-  <em>Lines marked with </em>><em> are confirmed to be added by next update</em>
+  <em>Highlighted lnes are confirmed to be added by next feature update.</em>
 
- * > Mentions
+ > Mentions
  * Status
  * Full emoji bank
- * > Menu/welcome screen
- * > Chat owner display
- * > Chat owner warnings
+ > Menu/welcome screen
+ > Chat owner display
+ > Chat owner warnings
  * Banning/hiding
  * Move from jQuery to pure JS
- * > Chat settings buttons
+ > Chat settings buttons
  * Link escaping
- * > Metadata display
- * > Idle chat cooldown
+ > Metadata display
+ > Idle chat cooldown
