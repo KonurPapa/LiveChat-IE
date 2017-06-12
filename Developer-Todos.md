@@ -8,4 +8,4 @@
  * Move from jQuery to pure JS
  * Chat settings buttons
  * Link escaping
- * Chat metadata display
+ * Metadata display
