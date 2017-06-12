@@ -3,14 +3,14 @@
   <em>Highlighted lines are confirmed to be added by next feature update.</em>
 
  > Mentions<br>
-Status<br>
-Full emoji bank<br>
+-Status<br>
+-Full emoji bank<br>
  > Menu/welcome screen<br>
  > Chat owner display<br>
  > Chat owner warnings<br>
-Banning/hiding<br>
-Move from jQuery to pure JS<br>
+-Banning/hiding<br>
+-Move from jQuery to pure JS<br>
  > Chat settings buttons<br>
-Link escaping<br>
+-Link escaping<br>
  > Metadata display<br>
  > Idle chat cooldown<br>
