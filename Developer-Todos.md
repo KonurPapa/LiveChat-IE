@@ -2,7 +2,7 @@
   <br>
   <em>Highlighted lines are confirmed to be added by next feature update.</em>
 
- > Mentions<br><
+ > Mentions<<br>
 -Status<br>
 -Full emoji bank<br>
  > Menu/welcome screen<br>
