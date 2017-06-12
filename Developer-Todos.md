@@ -1,6 +1,6 @@
   <b>Developer To-Dos</b>
   <br>
-  <em>Highlighted lnes are confirmed to be added by next feature update.</em>
+  <em>Highlighted lines are confirmed to be added by next feature update.</em>
 
  > Mentions
  * Status
