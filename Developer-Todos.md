@@ -5,12 +5,12 @@
  > Mentions
  * Status
  * Full emoji bank
- > Menu/welcome screen
- > Chat owner display
+ > Menu/welcome screen<br>
+ > Chat owner display<br>
  > Chat owner warnings
  * Banning/hiding
  * Move from jQuery to pure JS
  > Chat settings buttons
  * Link escaping
- > Metadata display
+ > Metadata display<br>
  > Idle chat cooldown
