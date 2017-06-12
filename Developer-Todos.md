@@ -1,5 +1,5 @@
   Developer To-Dos
-  _Lines marked with > are confirmed to be added by next update
+  <em>Lines marked with > are confirmed to be added by next update</em>
 
  * > Mentions
  * Status
