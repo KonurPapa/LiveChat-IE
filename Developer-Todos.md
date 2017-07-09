@@ -12,5 +12,8 @@
 - Move from jQuery to pure JS<br>
  > Chat settings buttons<br>
 - Link escaping<br>
- > Metadata display<br>
- > Idle chat cooldown<br>
+ > Back to menu
+ > Remove chat
+ > Bug fix for user list
+ > Bug fix for sound effects
+ > LiveChat account setup
