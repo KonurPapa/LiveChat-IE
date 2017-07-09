@@ -12,8 +12,8 @@
 - Move from jQuery to pure JS<br>
  > Chat settings buttons<br>
 - Link escaping<br>
- > Back to menu
- > Remove chat
- > Bug fix for user list
- > Bug fix for sound effects
- > LiveChat account setup
+ > Back to menu<br>
+ > Remove chat<br>
+ > Bug fix for user list<br>
+ > Bug fix for sound effects<br>
+ > LiveChat account setup<br>
